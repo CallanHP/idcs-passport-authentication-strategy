@@ -1,0 +1,21 @@
+{
+  "name": "idcs-passport-authentication-strategy",
+  "version": "1.0.0",
+  "description": "Passport authentication strategy for IDCS, drawing heavily from the work done by Indrajil Jha in his passport-oauth-oidcs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idcs",
+    "passport",
+    "Oracle"
+  ],
+  "author": "callan.howell-pavia@oracle.com",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.3.0",
+    "request": "^2.79.0",
+    "js-base64": "^2.1.9"
+  }
+}
