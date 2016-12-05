@@ -2,7 +2,7 @@
 
 Passport strategy for Oracle's IDCS which authenticates a user and manages that user's session.
 
-Based on work done by [Indrajil Jha](https://www.npmjs.com/~indraniljha).
+Based on work done by [Indrajil Jha](https://www.npmjs.com/~indraniljha). This module draws heavily on his, but is designed to be a little more self-contained, and have simplified configuration.
 
 ## Installation
 
