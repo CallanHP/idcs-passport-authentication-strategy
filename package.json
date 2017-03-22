@@ -1,6 +1,6 @@
 {
   "name": "idcs-passport-authentication-strategy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IDCS Passport JS authentication strategy",
   "main": "index.js",
   "scripts": {

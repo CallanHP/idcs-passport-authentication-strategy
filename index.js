@@ -1,4 +1,5 @@
-var OAuth2Strategy = require('passport-oauth2')
+var OAuth2Strategy = require('passport-oauth2');
+var AuthorizationError = require('./error/authorizationerror')
 var idcs = require('./lib/idcs-discovery');
 var https = require('https');
 var util = require('util');
